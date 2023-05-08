@@ -1,3 +1,8 @@
+//2 - Crie um programa em Java, que receba como entrada dois números
+//e apresente a média deles.
+
+
+
 import java.util.Scanner;
 public class Media {
     public static void main(String[]args){

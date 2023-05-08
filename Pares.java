@@ -1,3 +1,7 @@
+//1 - Crie um programa em Java, que recebe como entrada 10 números inteiros quaisquer
+//e deverá informar como saída quais deste números de entrada são pares.
+
+
 import java.util.Scanner;
 public class Pares{
     public static void main(String[]args){
