@@ -1,3 +1,8 @@
+//4 - Crie um programa que calcule o IMC de um indivíduo qualquer. O programa deverá receber como parâmetros de entrada o nome do individuo, seu peso e sua altura.
+//Deverá informar qual é o seu IMC, e qual o grau de seu IMC.
+
+
+
 import java.util.Scanner;
 public class IMC {
     public static void main(String[]args){
