@@ -1,3 +1,4 @@
+package lista1;
 //2 - Crie um programa em Java, que receba como entrada dois números
 //e apresente a média deles.
 

@@ -1,3 +1,4 @@
+package lista1;
 //6 - Crie um programa que receba n números de entrada até que seja digitado o número 0
 //ao final o programa deverá informar quantos números foram digitados bem como a soma dos números digitados.
 

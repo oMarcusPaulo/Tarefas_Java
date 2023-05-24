@@ -1,3 +1,4 @@
+package lista1;
 //5 - Crie um programa que calcule a área de um circulo.
 
 
