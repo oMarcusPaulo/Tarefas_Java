@@ -1,3 +1,4 @@
+package lista2;
 //LISTA 2
 //8 - Crie um programa em Java que utilize as funções
 //System.out.println e System.out.print. Faça a comparação entre estas duas funções.
